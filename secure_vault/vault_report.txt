@@ -1,0 +1,140 @@
+	Filename:  keys.txt
+	FileSize in Bytes:  
+	Last Modified Date:  
+	Current Permissions:  
+	Filename:  logs.txt
+	FileSize in Bytes:  
+	Last Modified Date:  
+	Current Permissions:  
+	Filename:  secrets.txt
+	FileSize in Bytes:  
+	Last Modified Date:  
+	Current Permissions:  
+	Filename:  keys.txt
+	FileSize in Bytes:  
+	Last Modified Date:  
+	Current Permissions:  
+	Filename:  logs.txt
+	FileSize in Bytes:  
+	Last Modified Date:  
+	Current Permissions:  
+	Filename:  secrets.txt
+	FileSize in Bytes:  
+	Last Modified Date:  
+	Current Permissions:  
+	Filename:  vault_report.txt
+	FileSize in Bytes:  
+	Last Modified Date:  
+	Current Permissions:  
+	Filename: secure_vault/keys.txt
+	File Size: 8
+	Last Modified Date: 8
+	Current Permissions: 700
+	Filename: secure_vault/logs.txt
+	File Size: 126
+	Last Modified Date: 126
+	Current Permissions: 776
+	Filename: secure_vault/secrets.txt
+	File Size: 23
+	Last Modified Date: 23
+	Current Permissions: 777
+	Filename: secure_vault/vault_report.txt
+	File Size: 982
+	Last Modified Date: 998
+	Current Permissions: 644
+\Filename: 
+	File Size: 8
+	Last Modified Date: 8
+	Current Permissions: 700
+\Filename: 
+	File Size: 126
+	Last Modified Date: 126
+	Current Permissions: 776
+\Filename: 
+	File Size: 23
+	Last Modified Date: 23
+	Current Permissions: 777
+\Filename: 
+	File Size: 1292
+	Last Modified Date: 1309
+	Current Permissions: 644
+Filename: 
+	File Size: 8
+	Last Modified Date: 8
+	Current Permissions: 700
+Filename: 
+	File Size: 126
+	Last Modified Date: 126
+	Current Permissions: 776
+Filename: 
+	File Size: 23
+	Last Modified Date: 23
+	Current Permissions: 777
+Filename: 
+	File Size: 1600
+	Last Modified Date: 1617
+	Current Permissions: 644
+Filename: keys.txt
+	File Size: 8
+	Last Modified Date: 8
+	Current Permissions: 700
+Filename: logs.txt
+	File Size: 126
+	Last Modified Date: 126
+	Current Permissions: 776
+Filename: secrets.txt
+	File Size: 23
+	Last Modified Date: 23
+	Current Permissions: 777
+Filename: vault_report.txt
+	File Size: 1951
+	Last Modified Date: 1968
+	Current Permissions: 644
+Filename:keys.txt
+	File Size: 8
+	Last Modified Date: 8
+	Current Permissions: 700
+Filename:logs.txt
+	File Size: 126
+	Last Modified Date: 126
+	Current Permissions: 776
+Filename:secrets.txt
+	File Size: 23
+	Last Modified Date: 23
+	Current Permissions: 777
+Filename:vault_report.txt
+	File Size: 2298
+	Last Modified Date: 2315
+	Current Permissions: 644
+Filename:keys.txt
+	File Size: 8
+	Last Modified Date: 8
+	Current Permissions: 700
+Filename:logs.txt
+	File Size: 126
+	Last Modified Date: 126
+	Current Permissions: 776
+Filename:secrets.txt
+	File Size: 23
+	Last Modified Date: 23
+	Current Permissions: 777
+Filename:vault_report.txt
+	File Size: 2645
+	Last Modified Date: 2662
+	Current Permissions: 644
+Filename:keys.txt
+	File Size: 8
+	Last Modified Date: 8
+	Current Permissions: 700
+Filename:logs.txt
+	File Size: 126
+	Last Modified Date: 126
+	Current Permissions: 776
+Filename:secrets.txt
+	File Size: 23
+	Last Modified Date: 23
+	Current Permissions: 777
+Filename:vault_report.txt
+	File Size: 2992
+	Last Modified Date: 3009
+	Current Permissions: 644
